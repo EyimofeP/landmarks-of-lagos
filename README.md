@@ -1,6 +1,6 @@
 # The Landmarks of Lagos
 
-[Check it Out!](https://landmarks-of-lagos.streamlit.app/)
+[Check it Out!](https://eyes-of-landmarks.streamlit.app/)
 ___
 The aim of this project is to build an application that can classify seven (7) popular architectural landmarks that can be found in Lagos state, Nigeria. These landmarks include
 
