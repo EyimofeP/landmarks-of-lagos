@@ -58,7 +58,7 @@ ___
 
 * Convolutional Neural Networks (CNN) using Data Augmentation and Transfer Learning / Pretrained Model to achieved best performance
 
-* **Tuned Inception V3** achieved best performance with **99% traing accuracy** and **97.2% test accuracy**
+* **Tuned Inception V3** achieved best performance with **99% training accuracy** and **97.2% test accuracy**
 
 <!-- * Model was deployed on a web application built using **Django** available at [Dementia Predictor](https://dementia-predictor.herokuapp.com/) -->
 ___
